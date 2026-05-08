@@ -1,0 +1,13 @@
+insulin,readmitted,count
+No,NO,156
+Up,>30,29
+Up,NO,44
+Steady,NO,186
+Steady,>30,157
+No,>30,135
+Steady,<30,25
+Down,<30,15
+Down,NO,68
+Down,>30,62
+No,<30,23
+Up,<30,14
